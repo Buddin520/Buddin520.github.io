@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>1shi1.top</id>
+    <title>壹拾壹</title>
+    <updated>2021-04-19T15:45:12.526Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="1shi1.top"/>
+    <link rel="self" href="1shi1.top/atom.xml"/>
+    <subtitle>Hi，我是阿伟。壹拾壹是我用来简单的记录日常感悟、分享好物的个人平台，网址：1shi1.top
+</subtitle>
+    <logo>https://i.loli.net/2021/04/15/m3aVu8bdxPtzUoT.png</logo>
+    <icon>https://i.loli.net/2021/04/15/m3aVu8bdxPtzUoT.png</icon>
+    <rights>All rights reserved 2021, 壹拾壹</rights>
+    <entry>
+        <title type="html"><![CDATA[帮助]]></title>
+        <id>https://1shi1.top/bang-zhu</id>
+        <link href="https://1shi1.top/bang-zhu"/>
+        <updated>2021-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是公众号帮助
+又是404丢失，
+真的是醉了
+]]></summary>
+        <content type="html"><![CDATA[<p>这是公众号帮助</p>
+<p>又是404丢失，</p>
+<p>真的是醉了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown写作方法]]></title>
+        <id>https://1shi1.top/markdown-xie-zuo-fang-fa</id>
+        <link href="https://1shi1.top/markdown-xie-zuo-fang-fa"/>
+        <updated>2021-04-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tip: Markdown
+Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。基本语法包括标题，列表，图片，引用
+斜体和粗体
+使用 * 和 **表示斜体和粗体。
+示例：这是...]]></summary>
+        <content type="html"><![CDATA[<p>Tip: Markdown<br>
+Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。基本语法包括标题，列表，图片，引用</p>
+<h2 id="斜体和粗体">斜体和粗体</h2>
+<p>使用 <code>*</code> 和 <code>**</code>表示斜体和粗体。<br>
+示例：这是 <em>斜体</em>，这是 <strong>粗体</strong>。</p>
+<h2 id="无序列表">无序列表</h2>
+<p>使用 *，+，- 表示无序列表。<br>
+示例：</p>
+<ul>
+<li>无序列表项 一</li>
+<li>无序列表项 二</li>
+<li>无序列表项 三</li>
+</ul>
+<h2 id="有序列表">有序列表</h2>
+<p>使用数字和点表示有序列表。<br>
+示例：</p>
+<ol>
+<li>有序列表项 一</li>
+<li>有序列表项 二</li>
+<li>有序列表项 三</li>
+</ol>
+<h2 id="todo-代办事项">Todo 代办事项</h2>
+<p>使用 <code>- []</code> 和 <code>- [x]</code> 表示代办。示例：</p>
+<ul>
+<li>[x] 早上晨会</li>
+<li>[ ] 晚上跑步</li>
+</ul>
+<h2 id="文字引用">文字引用</h2>
+<p>使用 &gt; 表示文字引用。<br>
+示例：</p>
+<blockquote>
+<p>野火烧不尽，春风吹又生。</p>
+</blockquote>
+<h2 id="插入图像">插入图像</h2>
+<p>使用 <code>![描述](图片链接地址)</code> 插入图像。<br>
+示例：<br>
+<img src="https://www.zybuluo.com/static/img/my_head.jpg" alt="头像" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是测试排序文章]]></title>
+        <id>https://1shi1.top/zhe-shi-ce-shi-pai-xu-wen-zhang</id>
+        <link href="https://1shi1.top/zhe-shi-ce-shi-pai-xu-wen-zhang"/>
+        <updated>2021-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我发现主页文章排序出现了问题，不知道可不可以修复已经修复！
+
+...]]></summary>
+        <content type="html"><![CDATA[<p>我发现主页文章排序出现了问题，<s>不知道可不可以修复</s>已经修复！<br>
+<img src="https://i.loli.net/2021/04/07/MkiBgYWPft3KyqA.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
